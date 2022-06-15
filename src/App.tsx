@@ -4,6 +4,7 @@ import './App.css';
 import Info from './components/info';
 
 function App() {
+  console.log('asdf')
   return (
     <div className="App">
       <Info />
